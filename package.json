@@ -1,0 +1,22 @@
+{
+  "name": "ajs-3-use-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sych95/AJS-3-USE-NODEJS.git"
+  },
+  "author": "Sych95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sych95/AJS-3-USE-NODEJS/issues"
+  },
+  "homepage": "https://github.com/Sych95/AJS-3-USE-NODEJS#readme",
+  "dependencies": {
+    "@sych95/ajs": "^1.0.0"
+  }
+}
